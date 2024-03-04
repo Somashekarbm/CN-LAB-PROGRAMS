@@ -1,0 +1,11 @@
+Hello, this is a test file for the file server program. I hope it works well and meets all of your requirements.
+
+This text includes several lines of content, with varying lengths and formats. It should provide a good challenge for your program, as it will need to handle multiple lines of input and ensure that they are stored and retrieved correctly.
+
+I am looking forward to seeing how well your file server performs with this test data. Please let me know if there are any issues or errors that arise during the testing process.
+
+Thank you for allowing me to contribute to the development of your file server program. I am confident that it will be a valuable tool for users who need to manage and share files securely and efficiently.
+
+Best regards,
+[Your Name]
+
